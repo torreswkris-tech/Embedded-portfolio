@@ -13,13 +13,13 @@ I'm an Embedded Firmware Engineer focused on C/C++, ESP32, FreeRTOS, IoT and low
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| Coming soon || ESP32 OTA Update | Firmware update over Wi-Fi | 🚧 |
-| Coming soon || ESP32 FreeRTOS Tasks | Task scheduling and synchronization | 🚧 |
-| Coming soon || UART Driver | UART communication driver | 🚧 |
-| Coming soon || I2C Driver | I2C Master implementation | 🚧 |
-| Coming soon || SPI Driver | SPI communication | 🚧 |
-| Coming soon || MQTT Client | ESP32 MQTT communication | 🚧 |
-| Coming soon || BLE Sensor | Bluetooth Low Energy sensor | 🚧 |
+| ESP32 OTA Update | Firmware update over Wi-Fi | Coming soon |
+| ESP32 FreeRTOS Tasks | Task scheduling and synchronization | Coming soon |
+| UART Driver | UART communication driver | Coming soon |
+| I2C Driver | I2C Master implementation | Coming soon |
+| SPI Driver | SPI communication | Coming soon |
+| MQTT Client | ESP32 MQTT communication | Coming soon |
+| BLE Sensor | Bluetooth Low Energy sensor | Coming soon |
 
 ## Technologies
 - C
